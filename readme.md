@@ -25,6 +25,8 @@
 
 pytorch是学习和实现深度学习方面的应用的较好的选择，pytorch已经开始支持windows系统，并且pytorch有中文文档说明，非常适合学习。
 
-但是自己在实际学习的过程中，不知道从哪里入手，好在B站有一个大佬（莫烦python：[主页链接](https://space.bilibili.com/243821484?spm_id_from=333.788.b_765f7570696e666f.1) ）做了一个pytorch一系列的视频教程，帮助自己快速入门pytorch，以后自己学习基础知识和查阅API文档时就不会没有头绪了。[pytorch中文文档]: (https://pytorch-cn.readthedocs.io/zh/latest/package_references/torch/)
+但是自己在实际学习的过程中，不知道从哪里入手，好在B站有一个大佬（莫烦python：[主页链接](https://space.bilibili.com/243821484?spm_id_from=333.788.b_765f7570696e666f.1) ）做了一个pytorch一系列的视频教程，帮助自己快速入门pytorch，以后自己学习基础知识和查阅API文档时就不会没有头绪了。
+
+[pytorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/package_references/torch/)
 
 ​	
