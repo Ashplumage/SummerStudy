@@ -18,7 +18,7 @@
 本书的代码在书中给出的链接中有给出，书中源码地址：<https://www.manning.com/books/machine-learning-in-action>
 
 
-QQWWQQ
+
 
 
 [2.pytorch学习](https://www.bilibili.com/video/av15997678)
